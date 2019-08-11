@@ -1,2 +1,7 @@
 # TW-Public
-Public repository for handling suggestions, bug reports, and feature updates to the server.
+Public repository for handling suggestions and bug reports
+
+Only one ticket per issue
+No ban appeals/requests
+
+Thank you
