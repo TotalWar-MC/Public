@@ -1,7 +1,7 @@
 # TW-Public
 Public repository for handling suggestions and bug reports
 
-Only one ticket per issue
-No ban appeals/requests
+1. Only one ticket per issue
+2. No ban appeals/requests
 
 Thank you
