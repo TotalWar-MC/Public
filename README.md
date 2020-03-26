@@ -1,4 +1,4 @@
-# TW-Public
+# Public
 Public repository for handling suggestions and bug reports
 
 1. Only one ticket per issue
